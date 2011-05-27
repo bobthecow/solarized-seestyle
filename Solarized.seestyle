@@ -1948,112 +1948,6 @@ If that happens, use these values:
   <style id="/Perl/Regular Expressions 4"
     color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
 </mode>
-<mode id="SEEMode.PHP-HTML-jQuery">
-  <style id="_Default"
-    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
-  <style id="/PHP-HTML-jQuery/Entities"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP Delimiter"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP4 Functions"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP Magic Constants"
-    color="#b58900" inverted-color="#b58900"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP Magic Methods"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP String2"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/PHP Heredoc"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/SGML Double Dash"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/CDATA"
-    color="#d30102" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Doctype"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Escape"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Inline CSS"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Style Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Opening Style Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Inside curly brackets"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
-  <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Attribute state"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
-  <style id="/CSS/CSS Attributes"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
-  <style id="/CSS/CSS Digits"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
-  <style id="/CSS/CSS Colors"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/CSSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/CSSRound bracket"
-    color="#657b83" inverted-color="#93a1a1"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/CSSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/CSSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Inline Javascript"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Script Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-  <style id="/jQuery/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
-  <style id="/jQuery/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
-  <style id="/jQuery/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-  <style id="/jQuery/FunctionRegex"
-    color="#586e75" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Opening Script Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/JSAutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/JSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/JSSingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/JSRegEx"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/JSEscaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/JSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/JSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
-  <style id="/PHP-HTML-jQuery/Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
-</mode>
 <mode id="SEEMode.PHP-HTML">
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
@@ -2177,6 +2071,112 @@ If that happens, use these values:
     color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/Tags"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
+</mode>
+<mode id="SEEMode.PHP-HTML-jQuery">
+  <style id="_Default"
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
+  <style id="/PHP-HTML-jQuery/Entities"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP"
+    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP Delimiter"
+    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP4 Functions"
+    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP Keywords"
+    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP Magic Constants"
+    color="#b58900" inverted-color="#b58900"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP Magic Methods"
+    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP Numbers"
+    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/FunctionRegex"
+    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP Variables"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP Comment"
+    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP SingleComment"
+    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP String"
+    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Variables"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP String2"
+    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/PHP Heredoc"
+    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Comment"
+    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/SGML Double Dash"
+    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/CDATA"
+    color="#d30102" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Doctype"
+    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Escape"
+    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Inline CSS"
+    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Style Tags"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Opening Style Tag"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Attributes in Tags"
+    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Strings in Tags"
+    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Inside curly brackets"
+    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Keywords"
+    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Attribute state"
+    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Attributes"
+    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Digits"
+    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+  <style id="/CSS/CSS Colors"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/CSSComment"
+    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/CSSRound bracket"
+    color="#657b83" inverted-color="#93a1a1"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/CSSString"
+    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/CSSSingleString"
+    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Inline Javascript"
+    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Script Tags"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/Keywords"
+    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/Numbers"
+    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/Characters"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/jQuery/FunctionRegex"
+    color="#586e75" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Opening Script Tag"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/JSAutodocComment"
+    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/JSComment"
+    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/JSSingleComment"
+    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/JSRegEx"
+    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/JSEscaped Characters"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/JSString"
+    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/JSSingleString"
+    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+  <style id="/PHP-HTML-jQuery/Tags"
+    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.PHP-MooTools">
   <style id="_Default"
