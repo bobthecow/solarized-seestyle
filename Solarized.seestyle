@@ -1636,6 +1636,34 @@ If that happens, use these values:
   <style id="/C/String"
     color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
 </mode>
+<mode id="SEEMode.Lua">
+  <style id="_Default"
+    color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
+  <style id="/Lua/Literals"
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
+  <style id="/Lua/Keywords"
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+  <style id="/Lua/Basic Functions"
+    color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
+  <style id="/Lua/Libraries"
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+  <style id="/Lua/Library Functions"
+    color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
+  <style id="/Lua/MetaTableKeywords"
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
+  <style id="/Lua/Numbers"
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
+  <style id="/Lua/Multiline Comment"
+    color="#93A1A1" inverted-color="#586E75" font-style="italic" font-weight="normal" />
+  <style id="/Lua/Singleline Comment"
+    color="#93A1A1" inverted-color="#586E75" font-style="italic" font-weight="normal" />
+  <style id="/Lua/Multiline String"
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
+  <style id="/Lua/String with single quotes"
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
+  <style id="/Lua/String"
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
+</mode>
 <mode id="SEEMode.Markdown">
   <style id="_Default"
     color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
@@ -1765,34 +1793,6 @@ If that happens, use these values:
     color="#93A1A1" inverted-color="#586E75" font-style="italic" font-weight="normal" />
   <style id="/Mustache/Variables in strings"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
-</mode>
-<mode id="SEEMode.Lua">
-  <style id="_Default"
-    color="#657B83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#FDF6E3" inverted-background-color="#002B36" />
-  <style id="/Lua/Literals"
-    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
-  <style id="/Lua/Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
-  <style id="/Lua/Basic Functions"
-    color="#586E75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
-  <style id="/Lua/Libraries"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
-  <style id="/Lua/Library Functions"
-    color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
-  <style id="/Lua/MetaTableKeywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
-  <style id="/Lua/Numbers"
-    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
-  <style id="/Lua/Multiline Comment"
-    color="#93A1A1" inverted-color="#586E75" font-style="italic" font-weight="normal" />
-  <style id="/Lua/Singleline Comment"
-    color="#93A1A1" inverted-color="#586E75" font-style="italic" font-weight="normal" />
-  <style id="/Lua/Multiline String"
-    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
-  <style id="/Lua/String with single quotes"
-    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
-  <style id="/Lua/String"
-    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.Objective-C">
   <style id="_Default"
