@@ -270,19 +270,19 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/C#/Keywords"
-    color="#859900" inverted-color="#3333ff"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/C#/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/C#/AutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/C#/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/C#/SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/C#/Region"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
   <style id="/C#/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.C++">
   <style id="_Default"
@@ -460,185 +460,185 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/Codeigniter/Entities"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP Delimiter"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP4 Functions"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP Magic Methods"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Codeigniter/PHP SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Codeigniter/PHP String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP String2"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/PHP Heredoc"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Codeigniter/SGML Double Dash"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/CDATA"
-    color="#d30102" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="italic" font-weight="normal" />
   <style id="/Codeigniter/Doctype"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Codeigniter/Escape"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Codeigniter/Inline CSS"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Style Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Opening Style Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Inside curly brackets"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Attribute state"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Digits"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Colors"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/CSSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Codeigniter/CSSRound bracket"
-    color="#657b83" inverted-color="#93a1a1"  font-style="italic" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/CSSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/CSSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Inline Javascript"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Script Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Opening Script Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/JSAutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Codeigniter/JSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Codeigniter/JSSingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Codeigniter/JSRegEx"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/JSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/JSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Codeigniter/Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.CoffeeScript">
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/CoffeeScript/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Function"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Arguments"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Property"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="bold" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/CoffeeScript/Single Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/CoffeeScript/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Interpolated Values"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Single String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/RegularExpression"
-    color="#d30102" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Inline Javascript"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Script Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="italic" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/CoffeeScript/Opening Script Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="italic" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/XML/Attributes in Tags"
-    color="#657b83" inverted-color="#ffab66"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/XML/Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/XML/Single Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Javascript/AutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Javascript/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Javascript/SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Javascript/Regular Expressions"
-    color="#d30102" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Escaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Javascript/SingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.Conference">
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/Confrerence/Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Confrerence/Headings"
-    color="#b58900" inverted-color="#b58900"  font-style="normal" font-weight="bold" />
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Confrerence/Sections"
-    color="#ef5d32" inverted-color="#cb4b16"  font-style="normal" font-weight="bold" />
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Confrerence/Separators"
-    color="#586e75" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/Confrerence/Events"
-    color="#586e75" inverted-color="#839496"  font-style="italic" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/Confrerence/References"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Confrerence/Emphasis"
-    color="#268bd2" inverted-color="#268bd2"  font-style="italic" font-weight="bold" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Confrerence/Emails and URLs"
-    color="#586e75" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/Confrerence/Tool Tip"
-    color="#859900" inverted-color="#859900"  font-style="italic" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.CSS">
   <style id="_Default"
@@ -670,97 +670,97 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/Django-Template/Entities"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Django-Template"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Template Tag"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Template Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Context Variable"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Context Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Filters"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Double Quoted Strings"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Single Quoted Strings"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Filter Parameters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Django Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Django-Template/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Django-Template/SGML Double Dash"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/CDATA"
-    color="#d30102" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="italic" font-weight="normal" />
   <style id="/Django-Template/Doctype"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Django-Template/Escape"
-    color="#93a1a1" inverted-color="#586e75"  font-style="normal" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Inline CSS"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Style Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Opening Style Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Inside curly brackets"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Attribute state"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Digits"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Colors"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/CSSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Django-Template/CSSRound bracket"
-    color="#2aa198" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/CSSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/CSSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Inline Javascript"
-    color="#93a1a1" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Script Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Opening Script Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/JSAutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Django-Template/JSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Django-Template/JSSingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Django-Template/JSRegEx"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/JSEscaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/JSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/JSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Django-Template/Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.ERB">
   <style id="_Default"
@@ -818,13 +818,13 @@ If that happens, use these values:
   <style id="/Ruby/Backticks"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Singleline Comment"
-    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Ruby/Regexp"
     color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Escaped Characters"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Ruby/POD Comments"
-    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/ERB/Comment"
     color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/ERB/SGML Double Dash"
@@ -892,129 +892,129 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/ExpressionEngine/Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Entities"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/EE Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="bold" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Attributes in EE Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="bold" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/EE Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/ExpressionEngine/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/ExpressionEngine/Escape"
-    color="#268bd2" inverted-color="#268bd2"  font-style="italic" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Inline CSS"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Attributes"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Digits"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Colors"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Begin and End"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/CSS Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/ExpressionEngine/Inline Javascript"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript FunctionRegex"
-    color="#586e75" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript Begin and End"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript Single Comments"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/ExpressionEngine/Javascript Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.HAML Syntax">
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/HAML Syntax/HTML Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/HAML Syntax/HAML Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/HAML Syntax/HTML Element"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/HAML Syntax/interpolated ruby"
-    color="#657b83" inverted-color="#839496"  font-style="italic" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Embedded Expression"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/HAML Syntax/Inline Ruby"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Literals"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#CB4B16" inverted-color="#CB4B16" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Attribute Definitions"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Definitions"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Functions"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Classes"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Builtin Globals"
-    color="#b58900" inverted-color="#b58900"  font-style="normal" font-weight="normal" />
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Symbols"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Instance Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Class Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Global Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Hexadecimal Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Ruby/String with double quotes"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Ruby/String with single quotes"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent Q1"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent /"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent Q2"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with percent Q3"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Strings with parenthesis"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Heredoc"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Backticks"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Singleline Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Ruby/Regexp"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Escaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Ruby/POD Comments"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/HAML Syntax/Ruby Hash Attribute"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.HTML">
   <style id="_Default"
@@ -1100,161 +1100,161 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/XML/Entities"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/HTML-jQuery/Inline CSS"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/HTML-jQuery/Style Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/HTML-jQuery/Opening Style Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/XML/Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/XML/Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/XML/Single Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/CSS/Inside curly brackets"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Digits"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Colors"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/CSS/AutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/CSS/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/CSS/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/CSS/SingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/CSS/URL"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/HTML-jQuery/Inline Javascript"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/HTML-jQuery/Script Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/jQuery/FunctionRegex"
-    color="#586e75" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/HTML-jQuery/Opening Script Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/jQuery/AutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="bold" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/jQuery/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/jQuery/SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/jQuery/Regular Expressions"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Escaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/jQuery/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/jQuery/SingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/XML/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/XML/SGML Double Dash"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/XML/CDATA"
-    color="#d30102" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="italic" font-weight="normal" />
   <style id="/XML/Doctype"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/XML/Escape"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/XML/Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.HTML-MooTools">
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/XML/Entities"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/HTML-MooTools/Inline CSS"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/HTML-MooTools/Style Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/HTML-MooTools/Opening Style Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/XML/Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/XML/Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/XML/Single Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/CSS/Inside curly brackets"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/CSS/Attribute state"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Digits"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Colors"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/CSS/AutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/CSS/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/CSS/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/CSS/SingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/CSS/URL"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/HTML-MooTools/Inline Javascript"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/HTML-MooTools/Script Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/MooTools/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/HTML-MooTools/Opening Script Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/MooTools/AutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/MooTools/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/MooTools/SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/MooTools/Regular Expressions"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Escaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/MooTools/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/MooTools/SingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/XML/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/XML/SGML Double Dash"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/XML/CDATA"
-    color="#d30102" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="italic" font-weight="normal" />
   <style id="/XML/Doctype"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/XML/Escape"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/XML/Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.Java">
   <style id="_Default"
@@ -1312,27 +1312,27 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/jQuery/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/jQuery/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/jQuery/AutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/jQuery/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/jQuery/SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/jQuery/Regular Expressions"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Escaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/jQuery/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/jQuery/SingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.JSP-HTML">
   <style id="_Default"
@@ -1568,11 +1568,11 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/TeX/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/TeX/Functions"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/TeX/Singleline Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
 </mode>
 <mode id="SEEMode.LESS">
   <style id="_Default"
@@ -1614,27 +1614,27 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/C/Special Forms in Lisp"
-    color="#881350" inverted-color="#ec77b4"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/C/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/C/Constants"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/C/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/C/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/C/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/C/Atoms, functions, and quotes"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/C/(quasi)-quotes"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/C/Comments"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/C/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/C/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.Markdown">
   <style id="_Default"
@@ -1660,9 +1660,9 @@ If that happens, use these values:
   <style id="/Markdown/Code Block"
     color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Horizontal Rules"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Inline Code"
-    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="bold" />
+    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
   <style id="/Markdown/List Items"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Markdown/List Item Italic"
@@ -1682,47 +1682,47 @@ If that happens, use these values:
   <style id="/Markdown/Blockquotes"
     color="#657b83" inverted-color="#839496" font-style="italic" font-weight="normal" />
   <style id="/Markdown/Quoted Header"
-    color="#859900" inverted-color="#859900" font-style="italic" font-weight="bold" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
   <style id="/Markdown/Quoted Setext Header"
-    color="#859900" inverted-color="#859900" font-style="italic" font-weight="bold" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
   <style id="/Markdown/Quoted Italic"
-    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="italic" font-weight="normal" />
   <style id="/Markdown/Quoted Bold"
-    color="#657b83" inverted-color="#839496" font-style="italic" font-weight="bold" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="bold" />
   <style id="/Markdown/Quoted Link Text"
-    color="#2AA198" inverted-color="#2AA198" font-style="italic" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Quoted Link URL"
-    color="#859900" inverted-color="#859900" font-style="italic" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Quoted Link ID"
-    color="#D33682" inverted-color="#D33682" font-style="italic" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Markdown/Quoted Link ID Ref"
-    color="#D33682" inverted-color="#D33682" font-style="italic" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.MooTools">
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/MooTools/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/MooTools/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/MooTools/AutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/MooTools/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/MooTools/SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/MooTools/Regular Expressions"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Escaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/MooTools/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/MooTools/SingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.Mustache">
   <style id="_Default"
@@ -1770,7 +1770,7 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/Lua/Literals"
-    color="#B58900" inverted-color="#B58900" font-style="italic" font-weight="normal" />
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Lua/Keywords"
     color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Lua/Basic Functions"
@@ -1802,11 +1802,11 @@ If that happens, use these values:
   <style id="/Objective-C/Cocoa Classes"
     color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Objective-C Keywords"
-    color="#859900" inverted-color="#859900" font-style="normal" font-weight="bold" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Keywords"
     color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Memory Management"
-    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="bold" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Cocoa Functions"
     color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/Objective-C/Numbers"
@@ -1850,9 +1850,9 @@ If that happens, use these values:
   <style id="/Objective-J/Cappuccino Classes"
     color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Cappuccino Types"
-    color="#859900" inverted-color="#859900" font-style="italic" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Cappuccino Constants"
-    color="#B58900" inverted-color="#B58900" font-style="italic" font-weight="normal" />
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Objective-J Imports"
     color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
   <style id="/Objective-J/Characters"
@@ -1870,25 +1870,25 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/C/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/C/Types"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/C/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/C/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/C/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/C/Preprocessor"
-    color="#93a1a1" inverted-color="#586e75"  font-style="normal" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
   <style id="/C/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/C/Comment Curly"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/C/SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/C/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.Perl">
   <style id="_Default"
@@ -1928,7 +1928,7 @@ If that happens, use these values:
   <style id="/Perl/Backticks"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Perl/POD style comments"
-    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Perl/Singleline Comment"
     color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Perl/String with double quotes"
@@ -2064,7 +2064,7 @@ If that happens, use these values:
   <style id="/PHP-HTML/JSRegEx"
     color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/JSEscaped Characters"
-    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/JSString"
     color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML/JSSingleString"
@@ -2076,239 +2076,239 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/PHP-HTML-jQuery/Entities"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Delimiter"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP4 Functions"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Magic Constants"
-    color="#b58900" inverted-color="#b58900"  font-style="normal" font-weight="normal" />
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Magic Methods"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP String2"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/PHP Heredoc"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/SGML Double Dash"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/CDATA"
-    color="#d30102" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Doctype"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Escape"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Inline CSS"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Style Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Opening Style Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Inside curly brackets"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Attribute state"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Digits"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Colors"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/CSSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/CSSRound bracket"
-    color="#657b83" inverted-color="#93a1a1"  font-style="italic" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/CSSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/CSSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Inline Javascript"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Script Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/jQuery/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/jQuery/FunctionRegex"
-    color="#586e75" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Opening Script Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/JSAutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/JSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/JSSingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/JSRegEx"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/JSEscaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/JSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/JSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-HTML-jQuery/Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.PHP-MooTools">
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/PHP-MooTools/Entities"
-    color="#2aa198" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Delimiter"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP4 Functions"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Magic Constants"
-    color="#b58900" inverted-color="#b58900"  font-style="normal" font-weight="normal" />
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Magic Methods"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Numbers"
-    color="#268bd2" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-MooTools/PHP SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-MooTools/PHP String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP String2"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/PHP Heredoc"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-MooTools/SGML Double Dash"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/CDATA"
-    color="#d30102" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="italic" font-weight="normal" />
   <style id="/PHP-MooTools/Doctype"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-MooTools/Escape"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-MooTools/Inline CSS"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Style Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Opening Style Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Inside curly brackets"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Attribute state"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Digits"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Colors"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/CSSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-MooTools/CSSRound bracket"
-    color="#657b83" inverted-color="#93a1a1"  font-style="italic" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/CSSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/CSSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Inline Javascript"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Script Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/MooTools/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/MooTools/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Opening Script Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/JSAutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-MooTools/JSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-MooTools/JSSingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/PHP-MooTools/JSRegEx"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/JSEscaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/JSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/JSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/PHP-MooTools/Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.Prototype">
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/Prototype/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Prototype/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Prototype/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Prototype/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/Prototype/AutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Prototype/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Prototype/SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Prototype/Regular Expressions"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Prototype/Escaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Prototype/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Prototype/SingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.Python">
   <style id="_Default"
@@ -2392,47 +2392,47 @@ If that happens, use these values:
   <style id="/Ruby/Backticks"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Singleline Comment"
-    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Ruby/Regexp"
     color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/Ruby/Escaped Characters"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Ruby/POD Comments"
-    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
 </mode>
 <mode id="SEEMode.Sass">
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/Sass/Properties"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Sass/Attributes"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/Sass/Override"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/Sass/Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Sass/Digits"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Sass/Colors"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Sass/Control Directives"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/Sass/Sass functions"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/CSS/AutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/CSS/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Sass/SingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Sass/String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/Sass/Interpolation"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Sass/Interpolate"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/CSS/SingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.Smarty">
   <style id="_Default"
@@ -2440,7 +2440,7 @@ If that happens, use these values:
   <style id="/XML/Entities"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Smarty/Smarty Comment"
-    color="#93A1A1" inverted-color="#586e75" font-style="normal" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/Smarty/Smarty Command"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/Smarty/Smarty Block"
@@ -2740,107 +2740,107 @@ If that happens, use these values:
   <style id="_Default"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" background-color="#fdf6e3" inverted-background-color="#002b36" />
   <style id="/WordPress/Entities"
-    color="#2aa198" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Delimiter"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP4 Functions"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Magic Constants"
-    color="#b58900" inverted-color="#b58900"  font-style="normal" font-weight="normal" />
+    color="#B58900" inverted-color="#B58900" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Magic Methods"
-    color="#cb4b16" inverted-color="#cb4b16"  font-style="normal" font-weight="normal" />
+    color="#cb4b16" inverted-color="#cb4b16" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Numbers"
-    color="#d33682" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/WordPress/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
-  <style id="/WordPress/PHP 586e75"
-    color="#93a1a1" inverted-color="#91dc93"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
+  <style id="/WordPress/PHP SingleComment"
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/WordPress/PHP String"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Variables"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP String2"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/WordPress/PHP Heredoc"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Comment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/WordPress/SGML Double Dash"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/WordPress/CDATA"
-    color="#d30102" inverted-color="#d30102"  font-style="italic" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="italic" font-weight="normal" />
   <style id="/WordPress/Doctype"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/WordPress/Escape"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/WordPress/Inline CSS"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Style Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Opening Style Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Attributes in Tags"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Strings in Tags"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Inside curly brackets"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Attribute state"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Attributes"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Digits"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/CSS/CSS Colors"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/WordPress/CSSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/WordPress/CSSRound bracket"
-    color="#657b83" inverted-color="#93a1a1"  font-style="italic" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/WordPress/CSSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/WordPress/CSSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Inline Javascript"
-    color="#657b83" inverted-color="#839496"  font-style="normal" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Script Tags"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
-    color="#859900" inverted-color="#859900"  font-style="normal" font-weight="normal" />
+    color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
-    color="#d33682" inverted-color="#d33682"  font-style="normal" font-weight="normal" />
+    color="#D33682" inverted-color="#D33682" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/FunctionRegex"
-    color="#586e75" inverted-color="#93a1a1"  font-style="normal" font-weight="normal" />
+    color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Opening Script Tag"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/WordPress/JSAutodocComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/WordPress/JSComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/WordPress/JSSingleComment"
-    color="#93a1a1" inverted-color="#586e75"  font-style="italic" font-weight="normal" />
+    color="#93A1A1" inverted-color="#586e75" font-style="italic" font-weight="normal" />
   <style id="/WordPress/JSRegEx"
-    color="#d30102" inverted-color="#d30102"  font-style="normal" font-weight="normal" />
+    color="#D30102" inverted-color="#D30102" font-style="normal" font-weight="normal" />
   <style id="/WordPress/JSEscaped Characters"
-    color="#268bd2" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/WordPress/JSString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/WordPress/JSSingleString"
-    color="#2aa198" inverted-color="#2aa198"  font-style="normal" font-weight="normal" />
+    color="#2AA198" inverted-color="#2AA198" font-style="normal" font-weight="normal" />
   <style id="/WordPress/Tags"
-    color="#ffc05c" inverted-color="#268bd2"  font-style="normal" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
 </mode>
 <mode id="SEEMode.XML">
   <style id="_Default"
@@ -2872,7 +2872,7 @@ If that happens, use these values:
   <style id="/YAML/Keywords"
     color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/YAML/Other keywords"
-    color="#657b83" inverted-color="#839496" font-style="italic" font-weight="normal" />
+    color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/YAML/Variables"
     color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/YAML/Comment"
@@ -2884,7 +2884,7 @@ If that happens, use these values:
   <style id="/YAML/Inline Javascript"
     color="#657b83" inverted-color="#839496" font-style="normal" font-weight="normal" />
   <style id="/YAML/Script Tags"
-    color="#268BD2" inverted-color="#268BD2" font-style="italic" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Keywords"
     color="#859900" inverted-color="#859900" font-style="normal" font-weight="normal" />
   <style id="/Javascript/Numbers"
@@ -2894,7 +2894,7 @@ If that happens, use these values:
   <style id="/Javascript/FunctionRegex"
     color="#586e75" inverted-color="#93a1a1" font-style="normal" font-weight="normal" />
   <style id="/YAML/Opening Script Tag"
-    color="#268BD2" inverted-color="#268BD2" font-style="italic" font-weight="normal" />
+    color="#268BD2" inverted-color="#268BD2" font-style="normal" font-weight="normal" />
   <style id="/XML/Attributes in Tags"
     color="#586e75" inverted-color="#93A1A1" font-style="normal" font-weight="normal" />
   <style id="/XML/Strings in Tags"
